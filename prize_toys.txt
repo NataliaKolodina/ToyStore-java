@@ -1,0 +1,10 @@
+1,doll
+1,doll
+1,doll
+1,doll
+1,doll
+3,teddy
+1,doll
+3,teddy
+2,car
+2,car
